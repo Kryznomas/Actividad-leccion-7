@@ -1,0 +1,16 @@
+#up, #down {
+    height: 3vw;
+}
+
+#left, #right {
+
+    width: 3vw;
+    margin: 0 1.5vw 0 1.5vw;
+    
+}
+
+#gatito {
+
+    height: 500px;
+    width: auto;
+}
